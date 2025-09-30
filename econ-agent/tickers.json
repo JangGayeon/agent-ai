@@ -1,0 +1,4 @@
+{
+  "indexes": ["^KS11", "^IXIC", "^GSPC"],
+  "stocks": ["005930.KS", "000660.KS", "AAPL", "NVDA"]
+}
