@@ -1,14 +1,6 @@
-openai>=1.42.0
-feedparser>=6.0.11
-python-dotenv>=1.0.1
-yfinance>=0.2.52
-pandas>=2.2.2
-rich>=13.7.1
-tzdata>=2024.1
-pip freeze | findstr chromadb
 streamlit==1.38.0
 openai==1.40.3
-chromadb==0.5.0
+chromadb==0.4.24
 sentence-transformers==2.2.2
 pypdf==4.2.0
 pymupdf==1.24.4
