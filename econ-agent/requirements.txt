@@ -5,3 +5,13 @@ yfinance>=0.2.52
 pandas>=2.2.2
 rich>=13.7.1
 tzdata>=2024.1
+pip freeze | findstr chromadb
+streamlit
+openai
+chromadb
+sentence-transformers
+pypdf
+pymupdf
+yfinance
+feedparser
+python-dotenv
